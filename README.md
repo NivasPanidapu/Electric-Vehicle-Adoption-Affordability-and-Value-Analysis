@@ -1,4 +1,4 @@
-# Electric Vehicle Trends & Insights in Washington State
+# Electric Vehicle Adoption, Affordability, and Value Analysis – Washington State
 
 This project analyzes **electric vehicle (EV) adoption patterns in Washington State** using an interactive analytics dashboard. The dashboard highlights trends in BEV vs PHEV adoption, regional distribution, pricing vs range tradeoffs, utility-wise EV concentration, and value-for-money insights across cities and districts.
 
