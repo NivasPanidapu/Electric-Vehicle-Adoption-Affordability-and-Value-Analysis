@@ -39,7 +39,7 @@ This project analyzes **electric vehicle (EV) adoption patterns in Washington St
 </p>
 
 ## 📁 Repository Contents
-- `Portfolio_Dashboard.pbix` – Final Power BI dashboard (portfolio version)  
+- `Electric-Vehicle-Trends-Insights-in-Washington-State.pbix` – Final Power BI dashboard (portfolio version)  
 - `screenshots/` – Dashboard preview images  
 - `README.md` – Project documentation  
 
