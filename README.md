@@ -43,9 +43,6 @@ This project analyzes **electric vehicle (EV) adoption patterns in Washington St
 - `screenshots/` – Dashboard preview images  
 - `README.md` – Project documentation  
 
-## 🔗 Live Dashboard (Optional)
-If published to Power BI Service, view the interactive report here:  
-👉 <PASTE YOUR POWER BI LINK HERE>
 
 ## 📌 How to Use
 1. Download `Portfolio_Dashboard.pbix`  
